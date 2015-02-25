@@ -6,6 +6,8 @@ Each project in placed in a corresponding directory.
 This is a simulation of the Monty Hall Problem written in Racket.
 A similar program in Haskell will be added soon.
 
+[Album of Screenshots](http://imgur.com/a/iNv3H)
+
 * Written in **Racket**.
 * Compiled in **Dr. Racket**.
 * Requires rackunit depedency for checking. (These check-equal statements can be commented out).
